@@ -58,8 +58,6 @@ Output:
 | U.K.       | GPE   |
 | $1 billion | MONEY |
 
----
 
-✨ Built with [Streamlit](https://streamlit.io/) and [spaCy](https://spacy.io/).
 
-Do you want me to also generate a **`requirements.txt`** for this repo so you 
+
